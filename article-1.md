@@ -28,7 +28,7 @@ console.log("2nd output"); //statement-3
    ### Output : 
 
  <br>  
-  <img src="./p1.gif">
+  <img src="https://gifyu.com/image/AK0E">
 <br/><br/>
 
  Now lets understand the output, 
